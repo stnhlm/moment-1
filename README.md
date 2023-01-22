@@ -10,3 +10,6 @@ Uppgiften består av:
 ## Om detta repository
 
 Detta är mitt första repository, och första gången jag skriver markdown.
+
+För att klona detta repository till din dator skriver du:
+git clone https://github.com/stnhlm/moment-1
